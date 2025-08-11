@@ -1,0 +1,10 @@
+@INPROCEEDINGS{9711250,
+  author={Le, Trung-Nghia and Nguyen, Huy H. and Yamagishi, Junichi and Echizen, Isao},
+  booktitle={2021 IEEE/CVF International Conference on Computer Vision (ICCV)}, 
+  title={OpenForensics: Large-Scale Challenging Dataset For Multi-Face Forgery Detection And Segmentation In-The-Wild}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={10097-10107},
+  keywords={Annotations;Social networking (online);Face recognition;Media;Forgery;Face detection;Task analysis;Datasets and evaluation;Faces;Image and video manipulation detection and integrity methods},
+  doi={10.1109/ICCV48922.2021.00996}}
